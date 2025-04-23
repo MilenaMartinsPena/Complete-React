@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "nome": "Camisola Oversized",
+        "preco": 29.99,
+        "categoria": "Roupa",
+        "emStock": true,
+        "edit": false
+    },
+    {
+        "id": 2,
+        "nome": "Tênis Urbanos",
+        "preco": 59.90,
+        "categoria": "Calçado",
+        "emStock": true,
+        "edit": false
+    },
+    {
+        "id": 3,
+        "nome": "Mochila Minimalista",
+        "preco": 45.00,
+        "categoria": "Acessórios",
+        "emStock": false,
+        "edit": false
+    },
+    {
+        "id": 4,
+        "nome": "Óculos de Sol",
+        "preco": 19.99,
+        "categoria": "Acessórios",
+        "emStock": true,
+        "edit": false
+    },
+    {
+        "id": 5,
+        "nome": "Casaco Unissexo",
+        "preco": 89.50,
+        "categoria": "Roupa",
+        "emStock": true,
+        "edit": false
+    },
+    {
+        "id": 6,
+        "nome": "Relógio Digital",
+        "preco": 39.99,
+        "categoria": "Tecnologia",
+        "emStock": false,
+        "edit": false
+    },
+    {
+        "id": 7,
+        "nome": "Boné Preto",
+        "preco": 14.95,
+        "categoria": "Acessórios",
+        "emStock": true,
+        "edit": false
+    },
+    {
+        "id": 8,
+        "nome": "Sweat com Capuz",
+        "preco": 34.90,
+        "categoria": "Roupa",
+        "emStock": true,
+        "edit": false
+    },
+    {
+        "id": 9,
+        "nome": "Fones Bluetooth",
+        "preco": 49.99,
+        "categoria": "Tecnologia",
+        "emStock": true,
+        "edit": false
+    },
+    {
+        "id": 10,
+        "nome": "Carteira Slim",
+        "preco": 24.99,
+        "categoria": "Acessórios",
+        "emStock": false,
+        "edit": false
+    }
+]
